@@ -94,3 +94,7 @@ width: 100%;
     bold;font-family: 'Amatic SC', cursive; 
     vertical-align:top;
 }
+
+#sinDiseno{
+list-style: none;
+}
