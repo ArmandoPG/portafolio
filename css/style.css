@@ -80,6 +80,8 @@ width: 100%;
     color: white;
     margin: 15% 10%;
     padding: 15px;
+    background-color:#1c1c1d;
+    border-radius: 4rem;
 }
 /* .tituloTabla{
     text-align: center;
