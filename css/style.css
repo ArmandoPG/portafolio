@@ -1,0 +1,98 @@
+
+body{
+    width: 100%;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+#logo{
+    width: 140px;
+    padding: 3%;
+
+}
+
+#informacion{
+width: 100%;
+}
+
+#titulo{
+    text-align: left;
+    padding: 0 0 0 10%;
+    font-size: 3.3em;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#subtitulo{
+    text-align: left;
+    padding: 0 0 0 10%;
+    font-size: 3em;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+}
+
+.verde{
+    color: #7ED957;
+}
+
+#secInicio{
+    width: 40%;
+    text-align: left;
+    padding: 20% 0 0 10%;
+    
+}
+
+#btnInicio{
+    width: 40%;
+    padding: 20px;
+    font-size: 30px;
+    background: transparent;
+    color: white;
+    border-radius: 3rem;
+    border-color: #7ED957;
+}
+
+#acrcaMi{
+width: 100%;
+}
+
+.tituloPagina{
+    margin: 10% 0 0 10%;
+    font-size: 30px;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+}
+
+#parrfAcrca{
+    text-align: left;
+    padding: 0 0 0 10%;
+    font-size: 3em;
+    color: white;
+    font-family: 'Amatic SC', cursive;
+}
+#educacionSkillsCertificados{
+    width: 100%;
+}
+
+#tablaESC{
+    width: 80%;
+    color: white;
+    margin: 15% 10%;
+    padding: 15px;
+}
+/* .tituloTabla{
+    text-align: center;
+color: white;
+}
+
+.bodyTabla{
+    text-align: center;
+    color: white;
+} */
+
+
+ul{
+    padding: 10px;
+    
+}
