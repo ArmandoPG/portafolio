@@ -79,22 +79,18 @@ width: 100%;
     width: 80%;
     color: white;
     margin: 15% 10%;
-    padding: 15px;
+    padding: 40px;
     background-color:#1c1c1d;
     border-radius: 4rem;
 }
-/* .tituloTabla{
-    text-align: center;
-color: white;
+
+#titulosTabla{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 22px;
 }
 
-.bodyTabla{
-    text-align: center;
-    color: white;
-} */
-
-
-ul{
-    padding: 10px;
-    
+#cuerpoTabla{
+    font-size: 20px;font-weight: 
+    bold;font-family: 'Amatic SC', cursive; 
+    vertical-align:top;
 }
