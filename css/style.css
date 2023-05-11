@@ -80,7 +80,7 @@ width: 100%;
     color: white;
     margin: 15% 10%;
     padding: 40px;
-    background-color:#1c1c1d;
+    background-color:#51584D;
     border-radius: 4rem;
 }
 
@@ -97,4 +97,11 @@ width: 100%;
 
 #sinDiseno{
 list-style: none;
+}
+
+div{
+    width: 100%;
+    background-color:#1c1c1d;
+    height: 500px;
+    
 }
