@@ -99,9 +99,21 @@ width: 100%;
 list-style: none;
 }
 
-div{
+#portafolio{
     width: 100%;
     background-color:#1c1c1d;
     height: 500px;
     
+    
 }
+
+.subtitulopag{
+    font-size: 2em;
+    width: 90%;
+    margin: 0 10%;
+    padding: 40px 0 0 0;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+   
+}
+
